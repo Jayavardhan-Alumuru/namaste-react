@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is practice react concepts project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayavardhan-Alumuru/namaste-react.git"
+  },
+  "author": "Jayavardhan Alumuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayavardhan-Alumuru/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Jayavardhan-Alumuru/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
