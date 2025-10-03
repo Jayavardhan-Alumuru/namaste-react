@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is practice react concepts project",
   "scripts": {
+    "start": "parcel episode-03/index.html",
     "test": "jest"
   },
   "repository": {
@@ -17,5 +18,9 @@
   "homepage": "https://github.com/Jayavardhan-Alumuru/namaste-react#readme",
   "devDependencies": {
     "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   }
 }
